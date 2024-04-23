@@ -31,7 +31,7 @@ So I created the coding to compute the setting-out of horizontal and vertical al
      ```
   4. Run python file
 #### VBA
-  1. Open file [**VBA - Setting Out Alignment Program  Rev.09**](https://github.com/suben-mk/Setting-Out-Alignment-for-Metro-Line/blob/main/VBA/VBA%20-%20Setting%20Out%20Alignment%20Program%20%20Rev.09.xlsm)
+  1. Open file [**VBA - Setting Out Alignment Program  Rev.09.xlsm**](https://github.com/suben-mk/Setting-Out-Alignment-for-Metro-Line/blob/main/VBA/VBA%20-%20Setting%20Out%20Alignment%20Program%20%20Rev.09.xlsm)
   2. Prepare PI data at sheet ***HIP DATA*** and sheet ***VIP DATA***
   3. Run the code by hit the buttom of ***BLUE COLOR***
      
