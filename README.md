@@ -12,7 +12,7 @@ So I created the coding to compute the setting-out of horizontal and vertical al
 
 ### Workflow
 #### Python
-  1. Prepare PI data as [Import Setting-Out Alignment Data.xlsx](https://github.com/suben-mk/Setting-Out-Alignment-for-Metro-Line/blob/main/Python/Import%20Data/Import%20Setting-Out%20Alignment%20Data.xlsx)
+  1. Prepare PI data as [Import Setting-Out Alignment Data](https://github.com/suben-mk/Setting-Out-Alignment-for-Metro-Line/blob/main/Python/Import%20Data/Import%20Setting-Out%20Alignment%20Data.xlsx)
   2. Set path file and beginning point
      [**Horizontal_Alignment_Rev04.py**](https://github.com/suben-mk/Setting-Out-Alignment-for-Metro-Line/blob/main/Python/Horizontal_Alignment_Rev04.py)
      ```py
