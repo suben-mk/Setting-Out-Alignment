@@ -1,6 +1,6 @@
 # Setting-Out Alignment
-Tunnel Alignment is the center line of tunnel construction project. Tunnel survey need to crosscheck the alignment before using for survey work.
-So I created the coding to compute the setting-out of horizontal and vertical alingment for reducing my mistake and time. The coding was created 2 languages which're python and vba excel.
+**Setting-Out Alignment** คือตำแหน่งจุดทางเรขาคณิตของแนวอุโมงค์ (Geometry Points of Alignment) ตามตัวอย่างรูป _Alignment Type and Scheme_ วิศวกรสำรวจอุโมงค์จะต้องคำนวณตรวบสอบแบบแนวอุโมงค์ (Tunnel Alignment Drawing) ก่อนที่จะนำไปใช้ในงานสำรวจ 
+ผู้เขียนได้เขียนโค้ดการคำนวณตำแหน่งจุดทางเรขาคณิตของแนวอุโมงค์ทางราบ (Setting-out of Horizontal Alignment) และทางดิ่ง (Setting-out of Vertical Alignment) ตามหลักการของสำรวจเส้นทาง (Route Survey) ซึ่งได้ขียนโค้ดสำหรับการคำนวณ Setting-Out Alignment ไว้ 2 ภาษา คือภาษา Python และภาษา VBA Excel
 
 ### Alignment Type and Scheme
 ![Curve Elements Layout1 (1)](https://github.com/suben-mk/Setting-Out-Alignment-for-Metro-Line/assets/89971741/0d7b41b5-93b2-4be7-b441-8ee389f86ffb)
